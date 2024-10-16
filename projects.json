@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Cub3D",
+    "date_fr": "01/12/2024",
+    "date_us": "12/01/2024",
+    "desc_fr": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "desc_en": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "technologies": ["JavaScript", "React", "Next.js", "Tailwind"],
+    "images": ["image1.jpg", "image2.jpg"]
+  },
+  {
+    "name": "Minishell",
+    "date_fr": "01/12/2024",
+    "date_us": "12/01/2024",
+    "desc_fr": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "desc_en": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "technologies": ["JavaScript", "React", "Next.js", "Tailwind"],
+    "images": ["image1.jpg", "image2.jpg"]
+  },
+  {
+    "name": "Inception",
+    "date_fr": "01/12/2024",
+    "date_us": "12/01/2024",
+    "desc_fr": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "desc_en": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "technologies": ["JavaScript", "React", "Next.js", "Tailwind"],
+    "images": ["image1.jpg", "image2.jpg"]
+  },
+  {
+    "name": "Webserv",
+    "date_fr": "01/12/2024",
+    "date_us": "12/01/2024",
+    "desc_fr": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "desc_en": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "technologies": ["JavaScript", "React", "Next.js", "Tailwind"],
+    "images": ["image1.jpg", "image2.jpg"]
+  },
+  {
+    "name": "Transcendence",
+    "date_fr": "01/12/2024",
+    "date_us": "12/01/2024",
+    "desc_fr": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "desc_en": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "technologies": ["JavaScript", "React", "Next.js", "Tailwind"],
+    "images": ["image1.jpg", "image2.jpg"]
+  },
+  {
+    "name": "A.D.T.",
+    "date_fr": "01/12/2024",
+    "date_us": "12/01/2024",
+    "desc_fr": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "desc_en": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "technologies": ["JavaScript", "React", "Next.js", "Tailwind"],
+    "images": ["image1.jpg", "image2.jpg"]
+  },
+  {
+    "name": "Site le Gratin",
+    "date_fr": "01/12/2024",
+    "date_us": "12/01/2024",
+    "desc_fr": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "desc_en": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "technologies": ["JavaScript", "React", "Next.js", "Tailwind"],
+    "images": ["image1.jpg", "image2.jpg"]
+  },
+  {
+    "name": "Quizz du Berger",
+    "date_fr": "01/12/2024",
+    "date_us": "12/01/2024",
+    "desc_fr": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "desc_en": "Développement d'un site portfolio pour un cabinet d'architecture en collaboration avec une agence de design.",
+    "technologies": ["JavaScript", "React", "Next.js", "Tailwind"],
+    "images": ["image1.jpg", "image2.jpg"]
+  }
+]
