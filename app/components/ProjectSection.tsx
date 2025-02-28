@@ -9,7 +9,7 @@ const ProjectSection: React.FunctionComponent = ({}) => {
   const [currentProject, setCurrentProject] = React.useState<Project>(projects[0]);
 
   return (
-    <div className="relative overflow-hidden w-screen h-screen">
+    <div className="relative overflow-hidden w-screen h-screen border-red">
       <CurrentProject
         project={currentProject}
         showProjectModal={showProjectModal}
